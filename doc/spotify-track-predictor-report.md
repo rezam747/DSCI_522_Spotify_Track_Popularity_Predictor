@@ -1,7 +1,13 @@
 Predicting Spotify track popularity based on certain audio features
 ================
-Group 27 </br>
+#### Group 27 members</br>
+* Victor Francis 
+* Reza Mirzazadeh 
+* Qingqing Song 
+* Jessie Wong
+
 2021/11/25 (updated: 2021-12-11)
+
 
 -   [Summary](#summary)
 -   [Introduction](#introduction)
@@ -10,6 +16,9 @@ Group 27 </br>
     -   [Analysis](#analysis)
 -   [Results & Discussion](#results--discussion)
 -   [References](#references)
+
+
+
 
 # Summary
 
